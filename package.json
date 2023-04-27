@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js 'mongodb+srv://bianca170147:171000@cluster0.soa4tte.mongodb.net/?retryWrites=true&w=majority'",
+    "start": "node index.js 'mongodb+srv://bianca170147:171000@cluster0.soa4tte.mongodb.net/teste?retryWrites=true&w=majority'",
     "dev": "nodemon",
     "$schema": "https://railway.app/railway.schema.json"
   },
